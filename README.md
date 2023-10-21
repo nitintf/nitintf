@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hey there 👋
+
+![dancing-gopher](https://github.com/nitintf/nitintf/assets/55453926/7ad54ca1-055a-498b-9d75-733fe0408940)
 
 <!--
 **nitintf/nitintf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,6 +8,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
